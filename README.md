@@ -2,7 +2,7 @@
 -----
 
 
-<a align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=FFFAFA&center=true&vCenter=true&random=true&width=600&height=80&lines=HI!+I'm+RedWhiteLuo;Welcome+to+my+Github+page" alt="Typing SVG" /></a>
+<a align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&random=true&width=600&height=80&lines=HI!+I'm+RedWhiteLuo;Welcome+to+my+Github+page" alt="Typing SVG" /></a>
 # 🧑‍💻Basic info
 - 👀我是汕头大学 22级电子信息工程的一名本科生
 - 👋目前主要的兴趣方向在 **AI** 、 **嵌入式** 、 **计算机网络**
