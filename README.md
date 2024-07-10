@@ -24,7 +24,7 @@
 - <img src="https://img.shields.io/badge/-Python-4483b4?style=flat&logo=python&logoColor=ffd650"> 使用 python 构建基础的网络爬虫，并对数据进行清理
 - <img src="https://img.shields.io/badge/-Nginx-009900?style=flat&logo=nginx&logoColor=white"> 使用 Nginx 进行基础的网页部署、负载均衡、代理转发
 - <img src="https://img.shields.io/badge/-Proxy-7B68EE?style=flat&logo=openvpn&logoColor=white"> 使用 代理工具 进行流量伪装，实现欺骗网关，绕过计费
-- <img src="https://img.shields.io/badge/-Other-00CED1?style=flat&logoColor=white">  Minecraft 服务器维护、Syncthing服务、自建网盘、NAS 部署维护、笔记本水冷改装、 . . .
+- <img src="https://img.shields.io/badge/-Other-00CED1?style=flat&logoColor=white">  Minecraft 服务器维护、Syncthing服务、自建网盘、NAS 部署维护、硬件改装、 . . .
 
 ----
 
