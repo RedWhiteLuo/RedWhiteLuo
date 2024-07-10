@@ -6,7 +6,7 @@
 # 🧑‍💻Basic info
 - 👀我是汕头大学 22级电子信息工程的一名本科生
 - 👋目前主要的兴趣方向在 **AI** 、 **嵌入式** 、 **计算机网络**
-- 📖当前正在学习 **单片机** 相关基础知识，筹备第十八届全国大学生智能汽车竞赛智能视觉组
+- 📖当前正在学习 **单片机** 相关基础知识
 - 📫如果有任何疑问，您可以联系我: 
 	- <img src="https://img.shields.io/badge/-Gmail-00CED1?style=flat&logo=gmail&logoColor=white">  prof.redwhite@gmail.com 22ycluo@stu.edu.cn
 	- <img src="https://img.shields.io/badge/-Wechat-F8F8FF?style=flat&logo=wechat&logoColor=green"> RedWhiteLuo
